@@ -1,0 +1,51 @@
+## 📊 Results
+
+The College Notes AI Assistant successfully demonstrates the application of Artificial Intelligence and Natural Language Processing to create an intelligent academic question-answering system.
+
+The application allows students to upload their college notes and ask questions based on the uploaded documents. It processes the documents, retrieves relevant information, and generates contextual answers using a Large Language Model (LLM).
+
+### Key Results
+
+- Successfully implemented document uploading and processing functionality.
+- Extracted text from uploaded academic documents.
+- Implemented document chunking to divide large documents into smaller manageable sections.
+- Generated embeddings to represent document content in vector form.
+- Stored document embeddings for efficient similarity-based retrieval.
+- Implemented Retrieval-Augmented Generation (RAG) for contextual question answering.
+- Integrated an LLM to generate natural language responses.
+- Enabled students to interact with their academic notes through a conversational interface.
+
+### System Performance
+
+The system can be evaluated using the following parameters:
+
+| Evaluation Parameter | Result |
+|---|---|
+| Document Upload | Successfully Implemented |
+| Text Extraction | To be evaluated |
+| Semantic Retrieval | To be evaluated |
+| Contextual Question Answering | To be evaluated |
+| Response Time | To be measured |
+| Answer Relevance | To be evaluated |
+
+### Sample Output
+
+**Input Question:**
+What is Operating System?
+
+**Expected System Behavior:**
+
+1. The system searches the uploaded college notes for relevant information.
+2. Relevant document chunks are retrieved using semantic similarity.
+3. The retrieved context is passed to the language model.
+4. The AI generates a contextual answer based on the available notes.
+
+### Conclusion
+
+The College Notes AI Assistant demonstrates how Generative AI and Retrieval-Augmented Generation can simplify the process of accessing academic information.
+
+By combining document processing, semantic search, vector embeddings, and Large Language Models, the application provides an interactive way for students to explore and understand their study materials.
+
+It can serve as a foundation for developing more advanced AI-powered educational assistance systems.
+
+**Note:** The assistant's responses depend on the quality and content of uploaded documents and should be verified against academic reference materials.
